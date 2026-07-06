@@ -1,0 +1,22 @@
+services:
+  chatlet:
+    build: .
+    ports:
+      - "5314:5314"
+    environment:
+      - PORT=5314
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-admin}
+      - DATA_DIR=/data
+      # Optional offline-message email notify (BYO SMTP)
+      # - SMTP_HOST=
+      # - SMTP_PORT=587
+      # - SMTP_USER=
+      # - SMTP_PASS=
+      # - SMTP_FROM=
+      # - NOTIFY_EMAIL=
+    volumes:
+      - chatlet-data:/data
+    restart: unless-stopped
+
+volumes:
+  chatlet-data:
