@@ -79,7 +79,7 @@ Crisp's team plan is **$95/month = $1,140/year**. Chatlet pays for itself in und
 
 ## ☕ Skip the setup — get the 1-click installer
 
-Don't want to touch a terminal? Grab the packaged installer (Windows desktop app + one-command VPS deploy) — [**Get Chatlet on Whop →**](https://whop.com/onetime-suite)
+Don't want to touch a terminal? Grab the packaged installer (Windows desktop app + one-command VPS deploy) — [**Get Chatlet on Whop →**](https://whop.com/benjisaiempire/chatlet-app)
 
 ## 🧪 Testing
 
