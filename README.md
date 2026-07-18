@@ -1,5 +1,9 @@
 # 💬 Chatlet — Self-Hosted Live Chat for Your Website
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 
 **Pay once. Own it forever. No subscription.**
